@@ -318,9 +318,9 @@ export const themeDisclaimers = {
   ],
   dark: [
     "Dark mode on — the preferred theme for late-night data crunching!",
-    "Welcome to the dark side of Data Scienceing! 🌙",
+    "Welcome to the dark side of Data Science & Analytics! 🌙",
     "Dark mode activated — easier on the eyes during those long coding sessions.",
     "Back to dark mode! Where every data pipeline runs smoother!",
-    "Dark mode — because real Data Sciences code in the dark! 🖥️✨",
+    "Dark mode — because real Data Scientists & Analysts code in the dark! 🖥️✨",
   ],
 };
