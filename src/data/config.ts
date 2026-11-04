@@ -1,15 +1,15 @@
 const config = {
-  title: "Sofia Azzahra Alamsyah | AI & Data Engineer",
+  title: "Sofia Azzahra Alamsyah | AI & Data Science",
   description: {
-    long: "Explore the portfolio of Sofia Azzahra Alamsyah, an AI & Data Engineer specializing in Machine Learning, RAG/LLM Systems, Full-Stack Development, and Data Science. Discover 9 production-grade projects spanning enterprise AI, predictive analytics, and intelligent web applications.",
+    long: "Explore the portfolio of Sofia Azzahra Alamsyah, an AI & Data Science specializing in Machine Learning, RAG/LLM Systems, Full-Stack Development, and Data Science. Discover 9 production-grade projects spanning enterprise AI, predictive analytics, and intelligent web applications.",
     short:
-      "Portfolio of Sofia Azzahra Alamsyah — AI & Data Engineer building intelligent, data-driven solutions.",
+      "Portfolio of Sofia Azzahra Alamsyah — AI & Data Science building intelligent, data-driven solutions.",
   },
   keywords: [
     "Sofia Azzahra Alamsyah",
     "portfolio",
     "AI engineer",
-    "data engineer",
+    "Data Science",
     "machine learning",
     "RAG",
     "LLM",
